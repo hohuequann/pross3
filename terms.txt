@@ -4,3 +4,5 @@ remote repo
 pull/push
 config
 gitinore
+
+#commands
