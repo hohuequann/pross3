@@ -1,0 +1,6 @@
+staging area
+local repo
+remote repo
+pull/push
+config
+gitinore
