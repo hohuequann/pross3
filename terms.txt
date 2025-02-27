@@ -4,3 +4,8 @@ remote repo
 pull/push
 config
 gitinore
+
+#command
+git config
+git add
+git branch 
